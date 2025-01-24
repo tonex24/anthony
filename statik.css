@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+    margin: 0;
+    flex-direction: column;./
+    text-align: center;
+}
+
+#green {
+    background-color: green;
+    color: white;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+#text {
+    margin-bottom: 20px;
+}
